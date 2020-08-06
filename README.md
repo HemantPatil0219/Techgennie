@@ -1,0 +1,2 @@
+# Techgennie
+In today's technological era, everyone wants their work automated as they have so busy schedule. As they have to do work manually, which takes a lot of effort, attention and time like email typing, remembering events/ important dates, searching on the internet. Nowadays everyone is surrounded by technologies like smartphones,computers, the internet, etc. Every computer user wants their day to day tasks to be automated and to be done in lesser time. 
